@@ -1,4 +1,3 @@
-
 class Plataforma:
     def __init__(self, nome_plataforma, id_plataforma=None):
         # Se o nome for vazio ou só espaço em branco, a gente já interrompe
